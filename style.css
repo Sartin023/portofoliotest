@@ -1,0 +1,10 @@
+.jumbotron {
+    padding-top: 5px;
+    background-color: rgb(168, 142, 173);
+}
+.footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;  
+}
